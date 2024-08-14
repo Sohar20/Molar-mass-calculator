@@ -3,11 +3,11 @@ With this project. calculating molar mass in chemistry wont be a borinп problem
 ## How to use
 
 1) Install python
-2) Run this command: ``git clone https://github.com/Sohar20/Molar-mass-calculator.git`` or, if you don't have git, download these files: `main.py`, `gui.py`, `masses.json` (you can also download `gui.ui`, if you want ot ovhange the design of the app in qt designer)
+2) Run this command: ``git clone https://github.com/Sohar20/Molar-mass-calculator.git`` or, if you don't have git, download these files: `main.py`, `gui.py`, `masses.json` (you can also download `gui.ui`, if you want to change the design of the app in qt designer app)
 4) Run in terminal this command: `pip install PyQt5`
 5) Run file `main.py`
 
-After running that file, you can enter your formula and selsect number of decimal places
+After running that file, you can enter your formula and selsect number of decimal places. To get the result, press "Calculate molar mass" button.
 
 ## And one more thing
 
