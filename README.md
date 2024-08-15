@@ -7,7 +7,7 @@ With this project. calculating molar mass in chemistry wont be a borinп problem
 4) Run in terminal this command: `pip install PyQt5`
 5) Run file `main.py`
 
-After running that file, you can enter your formula and selsect number of decimal places. To get the result, press "Calculate molar mass" button.
+After running that file, you can enter your formula and select number of decimal places. To get the result, press "Calculate molar mass" button.
 
 ## And one more thing
 
